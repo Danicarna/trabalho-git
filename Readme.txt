@@ -1,4 +1,4 @@
-Adocionando TAGS
+Adicionando TAGS
 
 Primer trabalho GIT para entregar a Code.education
 ==================================================
